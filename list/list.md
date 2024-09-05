@@ -124,10 +124,11 @@ fruits=["apple","banana","mango"]
 for i in range(len(fruits))
 print(fruits)  
 
-//// apple
-     banana
-     mango 
+// apple
+   banana
+   mango 
 ```
+
 
 
 
